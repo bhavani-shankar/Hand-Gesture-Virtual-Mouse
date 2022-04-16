@@ -11,7 +11,7 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 <details>
 <summary>Neutral Gesture</summary>
  <figure>
-  <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Natural%20Gesture.jpg" alt="Palm" width="711" height="400"><br>
+  <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Natural%20Gesture.jpg" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
@@ -19,62 +19,62 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 <details>
 <summary>Move Cursor</summary>
-  <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Move%20Cursor.jpg" alt="Move Cursor" width="711" height="400"><br>
+  <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Move%20Cursor.jpg" alt="Move Cursor" width="711" height="400"><br>
   <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
 </details>
 
 <details>
 <summary>Left Click</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/IMG-20220415-WA0009.jpg" alt="Left Click" width="711" height="400"><br>
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/IMG-20220415-WA0009.jpg" alt="Left Click" width="711" height="400"><br>
  <figcaption>Gesture for single left click</figcaption>
 </details>
 
 <details>
 <summary>Right Click</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Right%20Click.jpg" alt="Right Click" width="711" height="400"><br>
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Right%20Click.jpg" alt="Right Click" width="711" height="400"><br>
  <figcaption>Gesture for single right click</figcaption>
 </details>
 
 <details>
 <summary>Double Click</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Double%20Click.jpg" alt="Double Click" width="711" height="400"><br>
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Double%20Click.jpg" alt="Double Click" width="711" height="400"><br>
  <figcaption>Gesture for double click</figcaption>
 </details>
 
 <details>
 <summary>Scrolling</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Scrolling.jpg" alt="Scrolling" width="711" height="400"><br>
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Scrolling.jpg" alt="Scrolling" width="711" height="400"><br>
  <figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
 </details>
 
 <details>
 <summary>Drag and Drop</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Drag%20and%20Drop.jpg" alt="Drag and Drop" width="711" height="400"><br>
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Drag%20and%20Drop.jpg" alt="Drag and Drop" width="711" height="400"><br>
  <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
 </details>
 
 <details>
 <summary>Multiple Item Selection</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Multiple%20Item%20Selection.jpg" alt="Multiple Item Selection" width="711" height="400"><br>
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Multiple%20Item%20Selection.jpg" alt="Multiple Item Selection" width="711" height="400"><br>
  <figcaption>Gesture to select multiple items</figcaption>
 </details>
 
 <details>
 <summary>Volume Control</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Volume%20Control.jpg" alt="Volume Control" width="711" height="400"><br>
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Volume%20Control.jpg" alt="Volume Control" width="711" height="400"><br>
  <figcaption>Dynamic Gestures for Volume control. The rate of increase/decrease of volume is proportional to the distance moved by pinch gesture from start point. </figcaption>
 </details>
 
 <details>
 <summary>Brightness Control</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/Brightness%20Control.jpg" alt="Brightness Control" width="711" height="400"><br>
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/Brightness%20Control.jpg" alt="Brightness Control" width="711" height="400"><br>
  <figcaption>Dynamic Gestures for Brightness control. The rate of increase/decrease of brightness is proportional to the distance moved by pinch gesture from start point. </figcaption>
 </details>
 
 ### Voice Assistant ( ***Proton*** ):
 <details>
 <summary>Launch / Stop  Gesture Recognition</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20launch%20stop%20gest.png" alt="launch stop gesture recognition" width="250" height="auto">
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20launch%20stop%20gest.png" alt="launch stop gesture recognition" width="250" height="auto">
 <ul>
   <li>
     <code> Proton Launch Gesture Recognition </code><br>
@@ -90,7 +90,7 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 <details>
 <summary>Google Search</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20search.png" alt="proton search github" width="800" height="auto">
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20search.png" alt="proton search github" width="800" height="auto">
 <ul>
   <li>
     <code>Proton search {text_you_wish_to_search}</code><br>
@@ -101,7 +101,7 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 <details>
 <summary>Find a Location on Google Maps</summary>
- <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20find%20location.png" alt="proton find location" width="800" height="auto">
+ <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20find%20location.png" alt="proton find location" width="800" height="auto">
   <ol>
     <li> 
       <code>Proton Find a Location</code><br>
@@ -116,9 +116,9 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 <details>
 <summary>File Navigation</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20list%20files.png" alt="proton list files" width="250" height="auto">&emsp;
- <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20open.png" alt="proton open" width="250" height="auto">&emsp;
- <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20go%20back.png" alt="proton go back" width="250" height="auto">
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20list%20files.png" alt="proton list files" width="250" height="auto">&emsp;
+ <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20open.png" alt="proton open" width="250" height="auto">&emsp;
+ <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20go%20back.png" alt="proton go back" width="250" height="auto">
   <ul>
     <li>
       <code>Proton list files</code> / <code> Proton list </code><br>
@@ -137,7 +137,7 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 <details>
 <summary>Current Date and Time</summary>
-<img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20date%20time.png" alt="proton date / time" width="250" height="auto">
+<img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20date%20time.png" alt="proton date / time" width="250" height="auto">
   <ul>
     <li>
       <code> Proton what is today's date </code> / <code> Proton date </code><br>
@@ -149,8 +149,8 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 <details>
 <summary>Copy and Paste</summary>
- <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20copy.png" alt="proton copy" width="500" height="auto">
- <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20paste.png" alt="proton paste" width="500" height="auto">
+ <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20copy.png" alt="proton copy" width="500" height="auto">
+ <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20paste.png" alt="proton paste" width="500" height="auto">
   <ul>
     <li>
       <code> Proton Copy </code><br>
@@ -165,7 +165,7 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 <details>
 <summary>Sleep / Wake up Proton</summary>
-  <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20bye%20wake%20up.png" alt="proton sleep / wake up" width="250" height="auto">
+  <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20bye%20wake%20up.png" alt="proton sleep / wake up" width="250" height="auto">
   <ul>
     <li>
       Sleep<br>
@@ -182,7 +182,7 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 <details>
 <summary>Exit</summary>
-   <img src="https://github.com/bhavani-shankar/Gesture-Controlled-Virtual-Mouse-Final-Year-project/blob/main/demo_media/voice%20commands/proton%20exit.png" alt="proton exit" width="250" height="auto">
+   <img src="https://github.com/bhavani-shankar/Hand-Gesture-Virtual-Mouse/blob/main/demo_media/voice%20commands/proton%20exit.png" alt="proton exit" width="250" height="auto">
   <ul>
     <li>
       <code> Proton Exit </code> <br>
@@ -228,7 +228,7 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
   ``` 
   cd to the GitHub Repo till src folder
   ```
-  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
+  Command may look like: `cd C:\Users\.....\Hand-Gesture-Virtual-Mouse\src`
   
   Step 6:
   
