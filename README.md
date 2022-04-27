@@ -193,11 +193,17 @@ Hand-Gesture-Virtual-Mouse makes human computer interaction simple by making use
 
 # Getting Started
 
+  ### Download .exe File
+  
+  ```bash
+  https://drive.google.com/drive/folders/13nniWQtBP1FsDHbwNkAFOIUazDUWoK9P?usp=sharing
+  ```
+
   ### Pre-requisites
   
   Python: (3.6 - 3.8.5)<br>
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
-  
+   
   ### Procedure
 
   
